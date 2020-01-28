@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+  background-color: rgb(162, 147, 180);
+}
+
+a{
+  color:#333;
+  text-decoration:none;
+}
+
+.btn{
+  background-color: rgb(20, 54, 54);
+  color: aliceblue;
+  padding:7px 20px;
+  cursor: progress;
+  border-radius: 40%;
+  
+}
+
+.container{
+  display:flex;
+  
+
+}
